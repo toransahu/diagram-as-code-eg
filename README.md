@@ -19,6 +19,7 @@ https://plantuml.com/stdlib
 - https://github.com/awslabs/aws-icons-for-plantuml
 - https://github.com/davidholsgrove/gcp-icons-for-plantuml
 - https://github.com/Crashedmind/PlantUML-icons-GCP/blob/master/Symbols.md
+    - Explored
 - https://github.com/gamma-data/GCP-C4-PlantUML
 
 ## Deployments
